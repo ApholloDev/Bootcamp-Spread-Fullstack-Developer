@@ -1,2 +1,0 @@
-html: hyper text markup language
-css: cascading styles sheets
